@@ -1,0 +1,8 @@
+[package]
+name = "rust_engine_lab"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+winit = "0.30.13"
+rand = "0.7.2"
